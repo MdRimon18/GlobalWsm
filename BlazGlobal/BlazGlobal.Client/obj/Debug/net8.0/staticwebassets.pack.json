@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\obj\\Debug\\net8.0\\compressed\\wgpj6by5dw.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazGlobal.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazGlobal.Client.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazGlobal.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazGlobal.Client.props",
+      "PackagePath": "build\\BlazGlobal.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazGlobal.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazGlobal.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazGlobal.Client.props",
+      "PackagePath": "buildTransitive\\BlazGlobal.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

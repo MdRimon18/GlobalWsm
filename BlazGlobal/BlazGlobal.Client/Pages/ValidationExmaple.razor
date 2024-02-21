@@ -1,0 +1,38 @@
+﻿ @page "/validation_example"
+ 
+  @using System.ComponentModel.DataAnnotations
+<EditForm Model="@myModel" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="myInput">My Input:</label>
+    <InputText id="myInput" @bind-Value="@myModel.MyInput" class="form-control" @oninput="ValidateInput" />
+    <ValidationMessage For="@(() => myModel.MyInput)" />
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+
+
+    private MyModel myModel = new MyModel();
+
+    private void HandleSubmit()
+    {
+        // Handle form submission here
+    }
+
+    private void ValidateInput()
+    {
+        // Manually trigger validation when the input field is touched or modified
+        var editContext = new EditContext(myModel);
+        editContext.Validate();
+    }
+
+    public class MyModel
+    {
+        [Required(ErrorMessage = "The field is required.")]
+        public string MyInput { get; set; }
+    }
+
+}

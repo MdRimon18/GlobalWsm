@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\MyBlazor\\BlazGlobal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\wizard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\wizard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\layout\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\layout\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\layout\\topmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\layout\\topmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mythme\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\shared\\showrecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\shared\\showrecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\pages\\manage\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\pages\\manage\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{897C335E-19E4-49AD-B747-7E348F7BC797}|BlazGlobal\\BlazGlobal\\BlazGlobal.csproj|solutionrelative:blazglobal\\blazglobal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC99065-1606-4CEB-B1D1-7AAF79F0CD82}|ServiceLayer\\ServiceLayer.csproj|g:\\myblazor\\blazglobal\\servicelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC99065-1606-4CEB-B1D1-7AAF79F0CD82}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\inventory\\supplierinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\inventory\\supplierinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\inventory\\unsolvedticket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\inventory\\unsolvedticket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|g:\\myblazor\\blazglobal\\blazglobal\\blazglobal.client\\pages\\validationexmaple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CED99FF-E0D2-4CF7-A6CC-BD9F5A9BDECD}|BlazGlobal\\BlazGlobal.Client\\BlazGlobal.Client.csproj|solutionrelative:blazglobal\\blazglobal.client\\pages\\validationexmaple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wizard.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Wizard.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\Wizard.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Wizard.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\Wizard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T16:39:53.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Layout\\MainLayout.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:18:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AQIAAG0IAAAAAAAAAADwv2sIAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:01:21.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageLayout.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageLayout.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ManageLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:00:50.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\Weather.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:24:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\App.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\App.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\App.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwD8CAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:16:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SideBar.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\SideBar.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Layout\\SideBar.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\SideBar.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Layout\\SideBar.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAA4wBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T05:44:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopMenu.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\TopMenu.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Layout\\TopMenu.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\TopMenu.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Layout\\TopMenu.razor",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAxwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:43:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountLayout.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\AccountLayout.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\AccountLayout.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\AccountLayout.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\AccountLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:02:00.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "G:\\mythme\\public\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\mythme\\public\\index.html",
+              "ToolTip": "G:\\mythme\\public\\index.html",
+              "RelativeToolTip": "..\\..\\mythme\\public\\index.html",
+              "ViewState": "AQIAAEQLAAAAAAAAAAAxwE0LAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-21T15:47:37.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\Home.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:21:45.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TopBar.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\TopBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:55:59.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T05:46:15.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExternalLoginPicker.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:30:56.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\appsettings.json",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\appsettings.json",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T07:45:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Program.cs",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Program.cs",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Program.cs",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA+wDMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:19:19.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatusMessage.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\StatusMessage.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\StatusMessage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:31:35.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowRecoveryCodes.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:01:52.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Program.cs",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Program.cs",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:18:40.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Routes.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Routes.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T10:37:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA2wF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T05:52:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\_Imports.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T10:12:07.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AQIAADUAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:46:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\_Imports.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:47:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T08:47:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\ServiceLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Class1.cs",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\ServiceLayer\\Class1.cs",
+              "RelativeToolTip": "ServiceLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T06:34:25.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwDwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:33:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal\\appsettings.Development.json",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal\\appsettings.Development.json",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T07:50:03.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnsolvedTicket.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\UnsolvedTicket.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\UnsolvedTicket.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\UnsolvedTicket.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\UnsolvedTicket.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:24:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ValidationExmaple.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\ValidationExmaple.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\ValidationExmaple.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\ValidationExmaple.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\ValidationExmaple.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:24:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor.css",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-21T06:04:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierInfo.razor",
+              "DocumentMoniker": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\SupplierInfo.razor",
+              "RelativeDocumentMoniker": "BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\SupplierInfo.razor",
+              "ToolTip": "G:\\MyBlazor\\BlazGlobal\\BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\SupplierInfo.razor",
+              "RelativeToolTip": "BlazGlobal\\BlazGlobal.Client\\Pages\\Inventory\\SupplierInfo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:24:56.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
